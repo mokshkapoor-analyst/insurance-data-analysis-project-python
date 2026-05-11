@@ -13,7 +13,7 @@ This project transforms raw insurance customer and claims data into actionable b
 📌 Click on the image to see the working of this project as a presentation  
 
 
-<a href="YOUR_LINKEDIN_POST_LINK">
+<a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_insurance-claims-analysis-python-p-03-moksh-ugcPost-7457753541303083008-gprg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28">
   <img src="Images/insurance.jpg" alt="Insurance Claims Analysis" width="100%">
 </a>
 
